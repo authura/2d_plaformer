@@ -20,3 +20,4 @@ __meta__ = {
 
 [node name="WorldComplete" parent="." instance=ExtResource( 2 )]
 position = Vector2( 128, 0 )
+next_world = "res://World2.tscn"
